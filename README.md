@@ -1,4 +1,4 @@
-[PROFILE_README_paste_this.md](https://github.com/user-attachments/files/32498611/PROFILE_README_paste_this.md)
+(https://github.com/user-attachments/files/32498611/PROFILE_README_paste_this.md)
 ### Solo game developer — I build the thing, then try to break it.
 
 I'm building **Elusion**, a top-down action RPG in Godot with a Flask backend. I started with **zero coding experience** and set out to ship something *complete* and treat it like real software — which, for a game with a server, means assuming the player is hostile.
